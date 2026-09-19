@@ -1,0 +1,1 @@
+CRITICAL RULE FOR ALL GENERATIONS: Before writing any chapter file, you MUST internally compile a complete, exhaustive list of all NCERT/ISC sub-topics for that chapter. You are strictly forbidden from summarizing, truncating, or skipping any sub-topics. Every chapter file must be a 100% standalone textbook replacement covering all derivations, mechanisms, and exceptions.
