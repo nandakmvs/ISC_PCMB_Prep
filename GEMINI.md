@@ -8,3 +8,10 @@ CRITICAL RULE FOR PRACTICE TESTS: Enforce a strict 'No Blanks Allowed' policy. I
 
 CRITICAL RULE FOR MATH EVALUATIONS: Enforce strict mathematical presentation standards. Deduct marks if the base formula is not explicitly stated before substitution, if dx/dy or limit notation is dropped mid-derivation, or if the final answer lacks a concluding statement. Award heavy step-marks for correct initial setups even if the final calculation fails.
 
+
+CRITICAL RULE FOR ADAPTIVE TEST GENERATION:
+When generating any new test, you MUST follow this algorithm:
+1. Read previous Question_Paper.md files to ensure NO exact questions are repeated.
+2. Read Mistake_Log.md. Allocate ~30% of the new test's marks to concepts she got wrong previously, but present them in a different format (e.g., if she failed an MCQ, give her a 2-mark reasoning question on the same topic).
+3. Allocate the remaining 70% of marks to high-yield topics from the syllabus that have NOT been tested yet.
+4. If she successfully answers a Mistake Log concept in the new test, mark it as 'Mastered' in the log and stop testing it. If she fails again, increase its weightage in the next test.
