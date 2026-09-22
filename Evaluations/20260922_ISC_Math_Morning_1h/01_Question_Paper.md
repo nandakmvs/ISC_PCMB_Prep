@@ -58,10 +58,7 @@ Using properties of determinants, prove that:
 $$\begin{vmatrix} a & b & c \\ a-b & b-c & c-a \\ b+c & c+a & a+b \end{vmatrix} = a^3 + b^3 + c^3 - 3abc$$
 **OR**
 **(Option B)**
-If $A = \begin{bmatrix} 1 & -1 & 1 \\ 2 & 1 & -3 \\ 1 & 1 & 1 \end{bmatrix}$, find $A^{-1}$ and hence solve the system of equations:
-$x + 2y + z = 4$
-$-x + y + z = 0$
-$x - 3y + z = 2$
+If $A = \begin{bmatrix} 2 & -1 & 1 \\ -1 & 2 & -1 \\ 1 & -1 & 2 \end{bmatrix}$, verify that $A^3 - 6A^2 + 9A - 4I = 0$. Hence, find $A^{-1}$.
 
 **Question 17:**
 **(Option A)**
