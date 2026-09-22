@@ -18,3 +18,7 @@ Use this to log specific, recurring mistakes in subjective presentation, derivat
 | 2026-09-21 | Biology | Rep. Health | Completely skipped GnRH when asked for GnRH, LH, FSH. | Never skip a hormone explicitly asked for in the question prompt. | Yes (Carelessness) |
 | 2026-09-21 | Biology | Rep. Health | Sperm diagram missed the Mitochondria label in the middle piece. | Mitochondria is the most functionally critical label in the middle piece. | Yes (Diagrams) |
 | 2026-09-21 | Biology | Evolution | Used colloquial phrasing: "diverge to do different things". | Use professional biology phrasing: "diverge to perform different functions". | Yes (Vocabulary Strictness) |
+| 2026-09-22 | Mathematics | Relations & Functions | Tried to prove transitivity using a single numerical example. | You CANNOT prove a general relation with one example; you can only DISPROVE it with a counter-example. | Yes (Logic/Proofs) |
+| 2026-09-22 | Mathematics | Continuity | Used generic limit notation for LHL/RHL instead of directional notation. | Must explicitly write x -> 0- for LHL and x -> 0+ for RHL. | Yes (Presentation) |
+| 2026-09-22 | Mathematics | Exam Strategy | Abandoned Q20 completely. Stopped halfway through Q23 proof. | Triggered -1 Mock Penalty again. Never abandon calculus. Just find the derivative! | No |
+| 2026-09-22 | Mathematics | Algebra/Arithmetic | Forgot to distribute negative sign in denominator; substituted wrong fraction from previous line. | Rushing through basic algebra is costing 3-mark questions despite knowing the hard concepts. | No |
