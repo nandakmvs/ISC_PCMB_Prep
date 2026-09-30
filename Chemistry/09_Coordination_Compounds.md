@@ -1,103 +1,95 @@
 # Chapter 9: Coordination Compounds
 
-## 1. Exhaustive Theory & Precise ISC Terminology
+## 9.1 Introduction and Terminology
+Coordination compounds contain a central metal atom/ion surrounded by oppositely charged ions or neutral molecules (ligands).
+- **Coordination Entity**: Constitutes a central metal atom or ion bonded to a fixed number of ions or molecules. Example: $[CoCl_3(NH_3)_3]$.
+- **Ligands**: Ions or molecules bound to the central atom/ion.
+  - *Unidentate*: Bounds through a single donor atom ($Cl^-, H_2O, NH_3$).
+  - *Didentate*: Bounds through two donor atoms (e.g., ethane-1,2-diamine / $en$, oxalate / $ox$).
+  - *Polydentate*: E.g., EDTA (hexadentate).
+  - *Ambidentate*: Ligands with two different donor atoms, either of which can link ($NO_2^-$, $SCN^-$).
 
-A **Coordination Compound** contains a central metal atom or ion surrounded by a number of oppositely charged ions or neutral molecules (ligands).
-- **Coordination Entity**: Constitutes a central metal atom or ion bonded to a fixed number of ions or molecules. Ex: $[Co(NH_3)_6]^{3+}$
-- **Central Atom/Ion**: The atom to which a fixed number of ligands are attached. (Acts as Lewis Acid).
-- **Ligands**: Ions or molecules bound to the central atom. (Act as Lewis Bases).
-  - *Unidentate*: Bind through one donor atom (e.g., $Cl^-$, $H_2O$, $NH_3$).
-  - *Didentate*: Bind through two donor atoms (e.g., $en$ = ethane-1,2-diamine, $C_2O_4^{2-}$ = oxalate).
-  - *Polydentate*: E.g., EDTA$^{4-}$ (hexadentate).
-  - **Ambidentate Ligand**: A ligand that can ligate through two different atoms (e.g., $NO_2^-$ vs $ONO^-$, $SCN^-$ vs $NCS^-$).
-- **Coordination Number (CN)**: Number of ligand donor atoms directly bonded to the metal.
-- **Coordination Sphere**: The square bracket enclosing the central atom and ligands.
+## 9.2 IUPAC Nomenclature of Coordination Compounds
+**Rules for naming**:
+1. Cation is named first, then anion.
+2. In the complex ion, ligands are named in alphabetical order before the central metal.
+3. Prefixes *di-, tri-, tetra-* are used to indicate number of individual ligands. If the ligand name includes a numerical prefix (like *ethylenediamine*), use *bis-, tris-, tetrakis-*.
+4. Oxidation state of the metal is indicated in Roman numerals in parentheses.
+5. If the complex ion is an anion, the metal name ends with *-ate* (e.g., ferrate, cuprate).
 
-### Werner's Theory of Coordination Compounds
-1. Metals show two types of valencies: **Primary valency** (ionizable, corresponds to oxidation state, satisfied by anions) and **Secondary valency** (non-ionizable, corresponds to coordination number, satisfied by ligands).
-2. Secondary valencies have fixed spatial arrangements (giving specific geometry).
+*SJBHC Practice*: Name $[Pt(NH_3)_2Cl(NO_2)]$ $\rightarrow$ Diamminechloridonitrito-N-platinum(II).
 
-### Valence Bond Theory (VBT)
-Metal provides vacant orbitals which undergo hybridization to form bonds with ligand orbitals.
-- CN = 4: $sp^3$ (Tetrahedral) or $dsp^2$ (Square planar).
-- CN = 6: $sp^3d^2$ (Outer orbital complex, high spin) or $d^2sp^3$ (Inner orbital complex, low spin).
-- **Strong Field Ligands** (e.g., $CO, CN^-, NH_3$ in some cases) force pairing of electrons against Hund's rule.
-- **Weak Field Ligands** (e.g., Halides, $H_2O$) do not force pairing.
+## 9.3 Werner's Theory of Coordination Compounds
+Metals possess two types of valencies:
+1. **Primary Valency**: Ionizable, corresponds to the oxidation state, satisfied by negative ions. (Represented by dotted lines).
+2. **Secondary Valency**: Non-ionizable, corresponds to the coordination number, satisfied by negative ions or neutral molecules. Directional in nature. (Represented by solid lines).
 
-### Crystal Field Theory (CFT)
-Assumes ligands as point charges. When ligands approach the central metal ion, the degeneracy of the 5 d-orbitals is lifted (Crystal Field Splitting).
-- **Octahedral Splitting ($\Delta_o$)**: Splits into $t_{2g}$ (lower energy: $d_{xy}, d_{yz}, d_{zx}$) and $e_g$ (higher energy: $d_{x^2-y^2}, d_{z^2}$).
-- **Spectrochemical Series**: Arrangement of ligands in increasing order of crystal field splitting power.
-  $I^- < Br^- < S^{2-} < SCN^- < Cl^- < F^- < OH^- < C_2O_4^{2-} < H_2O < NCS^- < edta^{4-} < NH_3 < en < CN^- < CO$
+## 9.4 Isomerism in Coordination Compounds
+**1. Structural Isomerism**:
+- *Linkage Isomerism*: Occurs in complexes containing ambidentate ligands (e.g., $NO_2$ vs $ONO$).
+- *Coordination Isomerism*: Interchange of ligands between cationic and anionic entities.
+- *Ionisation Isomerism*: Exchange of ions inside and outside the coordination sphere. (e.g., $[Co(NH_3)_5SO_4]Br$ and $[Co(NH_3)_5Br]SO_4$).
+- *Solvate (Hydrate) Isomerism*: Water is involved as a solvent.
 
----
+**2. Stereoisomerism**:
+- *Geometrical Isomerism*: Found in heteroleptic complexes. $cis$ (adjacent) and $trans$ (opposite) forms. Common in square planar $[Pt(NH_3)_2Cl_2]$ and octahedral complexes.
+- *Optical Isomerism*: Non-superimposable mirror images (enantiomers), dextro (d) and laevo (l). Common in octahedral complexes involving didentate ligands like $[Co(en)_3]^{3+}$.
 
-## 2. Step-by-Step Derivations & Mechanisms
+## 9.5 Valence Bond Theory (VBT)
+VBT explains the structure and magnetic properties of coordination compounds. The metal atom/ion provides empty orbitals for the formation of coordinate bonds with ligands.
 
-### Determining Inner vs Outer Orbital Complex (VBT)
-Example: $[CoF_6]^{3-}$ vs $[Co(NH_3)_6]^{3+}$ ($Co^{3+}$ is $d^6$).
-1. **Identify central ion and its charge**: $Co$ is $+3 \implies 3d^6$.
-2. **Identify ligand strength**:
-   - $F^-$ is weak field. No pairing. Configuration remains $t_{2g}^4 e_g^2$. Requires outer 4d orbitals for hybridization $\implies sp^3d^2$ (Outer orbital, paramagnetic).
-   - $NH_3$ is strong field (with $Co^{3+}$). Forces pairing. Configuration becomes $t_{2g}^6 e_g^0$. Uses inner 3d orbitals $\implies d^2sp^3$ (Inner orbital, diamagnetic).
+- **Coordination Number 4**:
+  - $sp^3$ hybridization $\rightarrow$ Tetrahedral (e.g., $[NiCl_4]^{2-}$)
+  - $dsp^2$ hybridization $\rightarrow$ Square Planar (e.g., $[Ni(CN)_4]^{2-}$)
+- **Coordination Number 6**:
+  - $d^2sp^3$ hybridization $\rightarrow$ Octahedral (Inner orbital complex)
+  - $sp^3d^2$ hybridization $\rightarrow$ Octahedral (Outer orbital complex)
 
----
+**Role of Ligands**:
+- *Strong field ligands* ($CN^-, CO, NH_3$) can force pairing of electrons against Hund's rule, often forming inner orbital, diamagnetic (or low spin) complexes.
+- *Weak field ligands* ($Cl^-, F^-, H_2O$) do not force pairing, leading to outer orbital, high spin complexes.
 
-## 3. Diagram Blueprints & Labeling Checklists
+*SJBHC Classic Question*: Why is $[Ni(CN)_4]^{2-}$ diamagnetic while $[NiCl_4]^{2-}$ is paramagnetic? (Explain using VBT configurations and pairing of $3d$ electrons).
 
-### Octahedral Crystal Field Splitting Diagram
-- **Left Side**: 5 degenerate d-orbitals (Free metal ion).
-- **Middle**: Average energy of d-orbitals in a spherical crystal field (Higher energy level).
-- **Right Side**: Split levels.
-  - Draw 3 orbitals lower ($t_{2g}$) and label them.
-  - Draw 2 orbitals higher ($e_g$) and label them.
-- **Checklist**: Mark the barycenter. Mark energy difference between barycenter and $t_{2g}$ as $-0.4\Delta_o$. Mark energy difference to $e_g$ as $+0.6\Delta_o$. Mark total gap as $\Delta_o$.
+## 9.6 Crystal Field Theory (CFT)
+CFT considers the metal-ligand bond to be purely ionic arising from electrostatic interactions.
+- Degenerate d-orbitals split into two sets under the influence of ligands.
+- **In Octahedral field**: Splits into $t_{2g}$ (lower energy) and $e_g$ (higher energy). Energy difference is denoted by $\Delta_o$.
+- **In Tetrahedral field**: Splits into $e$ (lower energy) and $t_2$ (higher energy). $\Delta_t = \frac{4}{9}\Delta_o$.
 
-### Isomerism Diagrams
-- **Geometrical (Cis-Trans)**: e.g., $[Co(NH_3)_4Cl_2]^+$.
-  - Cis: Identical ligands adjacent ($90^\circ$).
-  - Trans: Identical ligands opposite ($180^\circ$).
-- **Optical**: Non-superimposable mirror images. (e.g., $[Co(en)_3]^{3+}$ - dextro and laevo forms). *Draw 3D perspective with wedges/dashes*.
+**Spectrochemical Series**:
+Arrangement of ligands in increasing order of crystal field splitting:
+$I^- < Br^- < SCN^- < Cl^- < S^{2-} < F^- < OH^- < C_2O_4^{2-} < H_2O < NCS^- < edta^{4-} < NH_3 < en < CN^- < CO$
 
----
+**Electronic Configuration in Octahedral Complexes (d4 to d7)**:
+- If $\Delta_o < P$ (Pairing energy): 4th electron enters $e_g$ orbital. Configuration: $t_{2g}^3 e_g^1$ (Weak field ligand, high spin).
+- If $\Delta_o > P$: 4th electron pairs up in $t_{2g}$. Configuration: $t_{2g}^4 e_g^0$ (Strong field ligand, low spin).
 
-## 4. "Avoid the Trap" & Distinction Tables
+**Colour in Coordination Compounds**:
+Attributed to **d-d transitions**. An electron from a lower energy d-orbital is excited to a higher energy d-orbital, absorbing a specific wavelength of visible light and transmitting the complementary colour.
 
-| Type of Isomerism | Characteristic | Example Pair |
-| :--- | :--- | :--- |
-| **Ionization** | Exchange of ligands inside/outside sphere. | $[Co(NH_3)_5Br]SO_4$ & $[Co(NH_3)_5SO_4]Br$ |
-| **Linkage** | Ambidentate ligand binding through diff atoms. | $[Co(NH_3)_5(NO_2)]^{2+}$ & $[Co(NH_3)_5(ONO)]^{2+}$ |
-| **Coordination** | Interchange of ligands between cationic/anionic entities. | $[Co(NH_3)_6][Cr(CN)_6]$ & $[Cr(NH_3)_6][Co(CN)_6]$ |
+## 9.7 Stability of Coordination Compounds
+The stability of a complex in solution refers to the degree of association between the metal ion and the ligands.
+- **Chelate Effect**: Complexes containing chelate rings (formed by di- or polydentate ligands) are more stable than analogous complexes with unidentate ligands. (e.g., $[Co(en)_3]^{3+}$ is more stable than $[Co(NH_3)_6]^{3+}$).
 
-### ⚠️ ISC Traps & Subjective Pitfalls
-- **Trap**: Naming rules. Alphabetical order vs numerical prefixes.
-  - *Correction*: Ligands are named alphabetically first. If a ligand name already contains a numerical prefix (e.g., ethylenediamine), use *bis, tris, tetrakis*.
-- **Trap**: Forgetting the suffix "-ate" for anionic complexes.
-  - *Correction*: If the coordination sphere is an anion, the metal ends in "-ate" (Ferrate, Cuprate, Cobaltate). If cation/neutral, use normal name (Iron, Copper, Cobalt).
+## 9.8 Competency-Based & Assertion-Reason Drill
 
----
+**Assertion-Reason Pattern**:
+**Question 1:**
+*Assertion (A)*: Toxic metal ions are removed by the chelating ligands.
+*Reason (R)*: Chelate complexes tend to be more stable.
+*Answer*: Both A and R are true, and R is the correct explanation of A. (Used in lead poisoning treatment with EDTA).
 
-## 5. High-Yield Worked Model Problems
+**Question 2:**
+*Assertion (A)*: $[Fe(H_2O)_6]^{3+}$ is strongly paramagnetic whereas $[Fe(CN)_6]^{3-}$ is weakly paramagnetic.
+*Reason (R)*: $H_2O$ is a weak field ligand while $CN^-$ is a strong field ligand.
+*Answer*: Both A and R are true, and R is the correct explanation of A.
 
-### Q1. ISC Step-by-Step Problem: IUPAC Naming
-**Write the IUPAC name for $K_3[Fe(C_2O_4)_3]$.**
+**Question 3:**
+*Assertion (A)*: Linkage isomerism arises in coordination compounds containing ambidentate ligands.
+*Reason (R)*: Ambidentate ligand has two different donor atoms.
+*Answer*: Both A and R are true, and R is the correct explanation of A.
 
-**ISC Method:**
-1. **Identify Cation and Anion**: Potassium ($K^+$) is the cation. $[Fe(C_2O_4)_3]^{3-}$ is the complex anion.
-2. **Oxidation State of Metal**: Let oxidation state of Fe be $x$.
-   $3(+1) + x + 3(-2) = 0 \implies x = +3$.
-3. **Name Ligands**: $C_2O_4^{2-}$ is oxalato. There are 3, so **trioxalato**.
-4. **Name Central Metal**: Complex is anionic, so Iron becomes **ferrate**. Include oxidation state in Roman numerals: **ferrate(III)**.
-5. **Assemble**: **Potassium trioxalatoferrate(III)**. *(Note: Small 't', space only between cation and complex).*
-
-### Q2. ISC Step-by-Step Problem: CFT Electronic Configuration
-**Based on crystal field theory, write the electronic configuration for $d^4$ ion if $\Delta_o < P$.**
-
-**ISC Method:**
-1. State the condition: $\Delta_o < P$ means Crystal Field Splitting energy is less than Pairing energy.
-2. This corresponds to a **weak field ligand**.
-3. Therefore, it is energetically more favorable for the fourth electron to enter the higher energy $e_g$ level rather than pair up in the $t_{2g}$ level.
-4. Final configuration: **$t_{2g}^3 e_g^1$**.
-
-**NEET/JEE Speed Method:**
-$\Delta_o < P \implies$ weak field $\implies$ high spin $\implies$ fill 1,2,3 in $t_{2g}$, 4 in $e_g$. Config: $t_{2g}^3 e_g^1$.
+**SJBHC Final Check**:
+- Can you draw the optical isomers of $[Co(en)_3]^{3+}$?
+- Can you write the IUPAC name for bridging complexes or complexes with both cation and anion as complex entities?

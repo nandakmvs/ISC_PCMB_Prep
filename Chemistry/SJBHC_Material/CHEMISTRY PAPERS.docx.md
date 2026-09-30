@@ -1,0 +1,114 @@
+CHEMISTRY PAPERS:
+
+Mid-terms 2022
+
+
+
+
+
+
+
+
+UT-1 2022
+
+
+
+
+
+UT-1 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	UT-1 2024
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Mid-terms 2024
+
+	
+
+	
+
+	
+
+	
+
+	Mid-terms 2023
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	Coordination compounds test
+
+	
+
+	Alcohols, Phenols, Ethers test
+
+	
+
+	
+
+	
+
+	ISC SPECIMEN PAPER 2027
