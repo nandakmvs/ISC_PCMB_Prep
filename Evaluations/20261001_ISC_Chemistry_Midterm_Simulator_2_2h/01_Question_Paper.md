@@ -79,7 +79,9 @@
 
 **11.** State Henry's Law and mention one important application.
 **12.** Explain why transition metals generally form colored compounds.
-**13.** What is a chelate ligand? Give an example and state its effect on the stability of a coordination complex.
+**13.** Write the correct IUPAC names for the following coordination compounds, paying strict attention to oxidation states and ligand spelling:
+(i) $[Co(NH_3)_6]Cl_3$
+(ii) $[Co(NH_3)_5(SO_4)]Br$
 **14.** Arrange the following in increasing order of their basic strength in aqueous solution: $NH_3$, $CH_3NH_2$, $(CH_3)_2NH$, $(CH_3)_3N$.
 **15.** What are essential and non-essential amino acids? Give one example of each.
 

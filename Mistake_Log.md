@@ -41,3 +41,12 @@ Use this to log specific, recurring mistakes in subjective presentation, derivat
 | 2026-09-28 | Mathematics | Arithmetic | Wrote $6(5) + 36 = 86$ instead of $66$. | Always double-check basic multiplication and addition under exam stress. | No |
 | 2026-09-28 | Mathematics | Calculus (Derivatives) | Found derivative of parametric equations as $-\tan t$ instead of $-\cot t$. | Carefully verify trigonometric identities and derivative divisions: $\frac{\cos}{\sin} = \cot$. | No |
 | 2026-09-28 | Mathematics | Exam Strategy | Stopped halfway through Rolle's theorem proof after writing only 2 conditions. | Finish the algorithm! You must prove $f(a)=f(b)$ and find $c$. | No |
+
+### 2026-10-01: Physics UT-1 2025 (School Past Paper)
+- **Rule Violation:** Leaving sub-parts entirely blank (e.g. Q1(B)(iii), Q9). Mock negative penalty applied.
+- **Rule Violation:** Missing diagrams in derivations. Derived Gauss's law for an infinite wire but completely omitted the Gaussian cylinder diagram.
+- **Conceptual Error:** Confused Mirror formula with Lens formula in Q8. Used Lens formula but concluded with 'behind mirror'.
+
+### 2026-10-01: Chemistry UT-1 2023 (School Past Paper)
+- **Rule Violation:** Leaving sub-parts entirely blank (e.g. Q2(2), Q6(iii), Q7(iv), Q10(ii), Q11(i)(a)).
+- **Factual Recall:** IUPAC Naming of Coordination Compounds. Completely missed the Roman numeral oxidation states for the central metal atom (e.g. wrote 'Cobalt hexamine chloride' instead of 'hexaamminecobalt(III) chloride').

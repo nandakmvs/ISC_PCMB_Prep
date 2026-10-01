@@ -93,7 +93,7 @@
 **16.** Using Gauss's Law, derive an expression for the electric field intensity due to a uniformly charged thin spherical shell at a point outside the shell. **(Must include a labeled diagram).**
 **17.** Derive the balance condition for a Wheatstone bridge using Kirchhoff's laws. 
 **18.** Four point charges $+q, -q, +q,$ and $-q$ are placed at the corners of a square of side $a$. Calculate the electric potential at the center of the square.
-**19.** Derive the mirror formula for a concave mirror forming a real image. **(Must include a labeled ray diagram).**
+**19.** A student was given an optical device. They measured $u = -30 \text{ cm}$ and $f = +15 \text{ cm}$. They calculated $v = +10 \text{ cm}$ using the formula $\frac{1}{f} = \frac{1}{v} - \frac{1}{u}$ and concluded the image is formed "10 cm behind the mirror". Identify the two conceptual errors in the student's conclusion, state the correct formula for a mirror, and calculate the actual position of the image if the device was indeed a convex mirror.
 **20.** A battery of emf $12 \text{ V}$ and internal resistance $2 \Omega$ is connected to a $4 \Omega$ resistor. Find:
 (i) The current in the circuit.
 (ii) The terminal voltage of the battery.
